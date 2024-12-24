@@ -1,0 +1,2 @@
+# Rust Out-of-Bounds Vector Access
+This repository demonstrates a common error in Rust: panicking due to an out-of-bounds index when accessing a vector.  The `bug.rs` file contains the buggy code. The `bugSolution.rs` file provides a corrected version using safe indexing methods.
